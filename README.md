@@ -2,11 +2,11 @@
 
 ---
 
-Data Enthusiast
+## Data Enthusiast
 
 ---
 
-Passionate about turning data into actionable insights and building automated data workflows. Experienced in end-to-end data projects: from **data collection, cleaning, transformation, analysis, visualization, ETL pipelines, data warehousing, to business insights & strategy**. Adaptable, fast learner, and collaborative team player with strong problem-solving and communication skills.
+I am a Data Analyst with solid experience in data analytics, ETL processes, and workflow automation. I utilize SQL, Python, and tools such as Apache Airflow to extract, transform, and analyze data efficiently in order to support business decisions. I have worked on end-to-end data projects covering data collection, cleaning, transformation, visualization, statistical analysis, data warehousing, and insight generation. I am highly passionate about creating automated and scalable data pipelines, improving workflow efficiency, and discovering data-driven strategies through exploratory and time-series analysis. I am currently deepening my knowledge of big data technologies like Apache Spark and Kafka, as well as cloud platforms such as AWS and GCP to boost performance and scalability. Known for being adaptable, quick to learn, and collaborative, I excel in problem-solving and communication while turning raw data into meaningful insights.
 
 ---
 
