@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Rifqi Nadhir Aziz 👋  
 
-<!--
-**rifqinadhir/rifqinadhir*kjjjsdkjd * is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Data Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Passionate about turning data into actionable insights and building automated data workflows. Experienced in end-to-end data projects: from **data collection, cleaning, transformation, analysis, visualization, ETL pipelines, data warehousing, to business insights & strategy**. Adaptable, fast learner, and collaborative team player with strong problem-solving and communication skills.
+
+---
+
+## 💻 Technical Skills
+
+**Programming:** Python, SQL  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, PySpark  
+**Visualization:** Tableau, Looker Studio  
+**ETL & Pipelines:** PySpark, PostgreSQL, Great Expectations, Automation & Scheduling  
+**Web Scraping:** Selenium, BeautifulSoup  
+**Other Tools:** Excel, Docker, VS Code, pgAdmin  
+**Concepts:** EDA, Statistical Analysis, Time Series, Database Normalization, Data Warehouse (Fact & Dim), Data Quality Validation  
+
+---
+
+## 📫 Connect with Me
+📍 Bekasi, West Java  
+📧 Email: **rifqi1031@gmail.com**    
+🔗 LinkedIn:   
+💻 GitHub: https://github.com/rifqinadhir
+
+---
+
+⭐ **Feel free to explore my repositories — I build projects with real-world business context, clean data pipelines, and actionable insights.**
