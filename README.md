@@ -25,7 +25,7 @@ I am a Data Analyst with solid experience in data analytics, ETL processes, and 
 ## 📫 Connect with Me
 📍 Bekasi, West Java  
 📧 Email: rifqi1031@gmail.com    
-🔗 LinkedIn:   
+🔗 LinkedIn: https://www.linkedin.com/in/rifqinadhir/
 💻 GitHub: https://github.com/rifqinadhir
 
 ---
